@@ -1,29 +1,6 @@
-# ORIPHIEL-5D – Full Open Source Implementation
+# ORIPHIEL-5D
 
-Dieses Repository implementiert eine prototypische ORIPHIEL-5D Architektur inklusive FastAPI-Backend, Spiral-Speicher und Resonanzlogik. Die Struktur entspricht der angeforderten Open-Source-Referenz und ermöglicht einen schnellen Einstieg in Experimente mit der Spiral-Semantik.
-
-## Projektstruktur
-
-```
-oriphiel-5d/
-├── app/
-│   ├── init.py
-│   ├── main.py
-│   ├── models.py
-│   ├── spiral.py
-│   ├── resonance.py
-│   ├── storage.py
-│   ├── security.py
-│   └── visualize.py
-├── logs/
-│   └── events.log
-├── tests/
-│   └── test_api.py
-├── Dockerfile
-├── requirements.txt
-├── README.md
-└── LICENSE
-```
+ORIPHIEL-5D is a semantic spiral architecture that encodes knowledge in a 5D resonance manifold, enabling injection, query, and mutation of meaning through spiral segments and MetaMemory clusters.
 
 ## Installation & Start
 
